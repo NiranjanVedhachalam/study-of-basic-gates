@@ -1,4 +1,8 @@
-### study-of-basic-gates
+**Name: Niranjan V**
+
+**REGISTER NO: 212224110042**
+
+### EX NO: 1 - STUDY OF BASIC GATES
 
 **AIM:** 
 
@@ -64,16 +68,28 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+![Screenshot 2025-03-03 113527](https://github.com/user-attachments/assets/5edc5b3c-e245-4e53-b77b-263ef243a500)
 
- Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
 
+![logic-gates](https://github.com/user-attachments/assets/d3d8c10e-b492-4d23-a2f6-6c3b14637d7a)
+
+
 **RTL realization Output:** 
 
-**RTL**
+
+![Screenshot 2025-03-03 110731](https://github.com/user-attachments/assets/c9378f6e-0c5a-40a4-ae96-a247ad9760d2)
+
+
+**WAVEFORM:**
+
+
+![Screenshot 2025-03-03 113447(1)(1)](https://github.com/user-attachments/assets/41c7d107-99c2-4901-b724-3751deaebb55)
+
 
 **Result:**
+
+Therefore the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
 
 
